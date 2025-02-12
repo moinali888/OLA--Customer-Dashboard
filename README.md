@@ -1,5 +1,5 @@
 # OLA Customer Dashboard
-- Power Query
+- Power BI Dashboard
 1️⃣ Project Title & Description
 Project Name: OLA Customer Dashboard
 Description:
