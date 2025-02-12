@@ -1,8 +1,7 @@
 # OLA Customer Dashboard
 - Power BI Dashboard
-1️⃣ Project Title & Description
-Project Name: OLA Customer Dashboard
-Description:
+1️⃣ Project Overview
+- OLA Customer Dashboard
 
 2️⃣ Features & Objectives
 ✔ Interactive customer analytics dashboard
